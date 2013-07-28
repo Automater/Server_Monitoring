@@ -1,6 +1,6 @@
 ### Server Monitoring ###
 
-![Alt text](http://173.0.133.251/images/GitHub/downtime-FINAL "Cost of Server Downtime")
+![Alt text](http://173.0.133.251/images/GitHub/downtime-FINAL.jpg "Cost of Server Downtime")
 
 
 

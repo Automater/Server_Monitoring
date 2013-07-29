@@ -11,6 +11,9 @@ A.  Script using AA script.
 
 ![Alt text](http://173.0.133.251/images/GitHub/PingScript.jpg "AA Ping script")
 
+<blockquote>Automation Anywhere scripting is easy to learn and the learning curve of the person from programming background such as VB, C, C++, java, .Net, etc. will be much smaller.</blockquote>
+
+
 B.  Email alert sent to your email.
 
 ![Alt text](http://173.0.133.251/images/GitHub/EmailAlertServerDown.jpg "Email Alert")
@@ -30,7 +33,6 @@ You will be able to see the saved script in the Automation Anywhere's task pane.
 
 ![Alt text](http://173.0.133.251/images/GitHub/servermonitoringtask.jpg "Saved task")
 
-<blockquote>Automation Anywhere scripting is easy to learn and the learning curve of the person from programming background such as VB, C, C++, java, .Net, etc. will be much smaller and can trained faster.</blockquote>
 
 
 #### Methodology ####
